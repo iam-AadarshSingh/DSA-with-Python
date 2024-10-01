@@ -1,0 +1,1 @@
+# You are given a single positive integer, N. You need to print all even integers that occur between 1 to N.

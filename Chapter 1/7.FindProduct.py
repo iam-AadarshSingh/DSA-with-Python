@@ -1,0 +1,1 @@
+# You are given a single npopn negative integer, N. You need to calculate and print N factorial(N!)
